@@ -2,7 +2,7 @@
 
 Reproducibility repository for:
 
-**Near-Duplicate Leakage in Fine-Art Classification: A Reproducible Stacked CNN Ensemble with Perceptual Hash Deduplication**
+**Reproducibility code for Near-Duplicate Leakage in Fine-Art Classification: A Reproducible Stacked CNN Ensemble with Perceptual Hash Deduplication**
 
 Haitham Qutaiba Ghadhban  
 Computer Engineering Department, University of Diyala, Iraq  
