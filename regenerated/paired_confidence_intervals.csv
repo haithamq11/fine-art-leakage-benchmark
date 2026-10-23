@@ -1,0 +1,5 @@
+comparison,mean,ci_low,ci_high
+stacking - soft voting,0.98,0.53,1.44
+convnext - ensemble,0.42,-1.26,2.1
+swin - ensemble,4.11,2.09,6.14
+mobilenet - ensemble,-10.16,-12.52,-7.8
