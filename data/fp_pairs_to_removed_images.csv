@@ -1,0 +1,21 @@
+removed_image,artist,group_representative,false_positive_links,group_size_after_removing_fp_edges,consequence
+Alfred_Sisley_23.jpg,Alfred_Sisley,Edgar_Degas_204.jpg,Edgar_Degas_141.jpg (d=10),1,becomes a singleton: wrongly removed
+Rembrandt_123.jpg,Rembrandt,Rembrandt_241.jpg,Rembrandt_241.jpg (d=10); Rembrandt_185.jpg (d=10),2,"still grouped, separated from its representative: one member of the new group should be retained"
+Rembrandt_160.jpg,Rembrandt,Rembrandt_241.jpg,(indirect: attached through another member),2,"still grouped, separated from its representative: one member of the new group should be retained"
+Rembrandt_185.jpg,Rembrandt,Rembrandt_241.jpg,Rembrandt_123.jpg (d=10),1,becomes a singleton: wrongly removed
+Francisco_Goya_148.jpg,Francisco_Goya,Francisco_Goya_223.jpg,Francisco_Goya_223.jpg (d=10),1,becomes a singleton: wrongly removed
+Rembrandt_239.jpg,Rembrandt,Francisco_Goya_224.jpg,Rembrandt_246.jpg (d=10); Francisco_Goya_224.jpg (d=10),1,becomes a singleton: wrongly removed
+Rembrandt_246.jpg,Rembrandt,Francisco_Goya_224.jpg,Rembrandt_239.jpg (d=10),1,becomes a singleton: wrongly removed
+Francisco_Goya_174.jpg,Francisco_Goya,Francisco_Goya_268.jpg,Francisco_Goya_268.jpg (d=10),1,becomes a singleton: wrongly removed
+Edgar_Degas_388.jpg,Edgar_Degas,Titian_46.jpg,Titian_46.jpg (d=10),1,becomes a singleton: wrongly removed
+Rembrandt_36.jpg,Rembrandt,Rembrandt_174.jpg,Rembrandt_174.jpg (d=10),1,becomes a singleton: wrongly removed
+Vincent_van_Gogh_302.jpg,Vincent_van_Gogh,Vincent_van_Gogh_108.jpg,(indirect: attached through another member),2,"still grouped, separated from its representative: one member of the new group should be retained"
+Vincent_van_Gogh_323.jpg,Vincent_van_Gogh,Vincent_van_Gogh_108.jpg,Vincent_van_Gogh_108.jpg (d=10),2,"still grouped, separated from its representative: one member of the new group should be retained"
+Rembrandt_236.jpg,Rembrandt,Rembrandt_65.jpg,Rembrandt_65.jpg (d=10),1,becomes a singleton: wrongly removed
+Rembrandt_40.jpg,Rembrandt,Rembrandt_24.jpg,Rembrandt_24.jpg (d=10),1,becomes a singleton: wrongly removed
+Francisco_Goya_113.jpg,Francisco_Goya,Francisco_Goya_244.jpg,Francisco_Goya_244.jpg (d=10),1,becomes a singleton: wrongly removed
+Francisco_Goya_253.jpg,Francisco_Goya,Francisco_Goya_180.jpg,Francisco_Goya_180.jpg (d=10),1,becomes a singleton: wrongly removed
+Pablo_Picasso_47.jpg,Pablo_Picasso,Rembrandt_51.jpg,(indirect: attached through another member),2,"still grouped, separated from its representative: one member of the new group should be retained"
+Pablo_Picasso_73.jpg,Pablo_Picasso,Rembrandt_51.jpg,Rembrandt_51.jpg (d=10),2,"still grouped, separated from its representative: one member of the new group should be retained"
+Pierre-Auguste_Renoir_141.jpg,Pierre-Auguste_Renoir,Pierre-Auguste_Renoir_69.jpg,Pierre-Auguste_Renoir_69.jpg (d=10),1,becomes a singleton: wrongly removed
+Rembrandt_110.jpg,Rembrandt,Rembrandt_122.jpg,Rembrandt_122.jpg (d=10),1,becomes a singleton: wrongly removed

@@ -1,0 +1,61 @@
+image_a,image_b,artist_a,artist_b,hamming_distance,verdict
+Albrecht_Du╠êrer_93.jpg,Albrecht_Dürer_191.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Albrecht_Du╠êrer_93.jpg,Albrecht_Du╠êrer_191.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Alfred_Sisley_23.jpg,Edgar_Degas_141.jpg,Alfred_Sisley,Edgar_Degas,10,distinct paintings (false positive)
+Edgar_Degas_435.jpg,Edgar_Degas_408.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Rembrandt_123.jpg,Rembrandt_185.jpg,Rembrandt,Rembrandt,10,distinct paintings (false positive)
+Rembrandt_123.jpg,Rembrandt_241.jpg,Rembrandt,Rembrandt,10,distinct paintings (false positive)
+Edgar_Degas_59.jpg,Edgar_Degas_630.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Edgar_Degas_59.jpg,Edgar_Degas_19.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Vincent_van_Gogh_857.jpg,Vincent_van_Gogh_602.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Edgar_Degas_108.jpg,Edgar_Degas_697.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Edgar_Degas_117.jpg,Edgar_Degas_675.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Vincent_van_Gogh_554.jpg,Vincent_van_Gogh_356.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Edgar_Degas_76.jpg,Edgar_Degas_446.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Albrecht_Dürer_93.jpg,Albrecht_Dürer_191.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Albrecht_Dürer_93.jpg,Albrecht_Du╠êrer_191.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Francisco_Goya_148.jpg,Francisco_Goya_223.jpg,Francisco_Goya,Francisco_Goya,10,distinct paintings (false positive)
+Pablo_Picasso_383.jpg,Pablo_Picasso_264.jpg,Pablo_Picasso,Pablo_Picasso,10,genuine near-duplicate
+Rembrandt_246.jpg,Rembrandt_239.jpg,Rembrandt,Rembrandt,10,distinct paintings (false positive)
+Francisco_Goya_174.jpg,Francisco_Goya_268.jpg,Francisco_Goya,Francisco_Goya,10,distinct paintings (false positive)
+Edgar_Degas_388.jpg,Titian_46.jpg,Edgar_Degas,Titian,10,distinct paintings (false positive)
+Rembrandt_36.jpg,Rembrandt_174.jpg,Rembrandt,Rembrandt,10,distinct paintings (false positive)
+Vincent_van_Gogh_170.jpg,Vincent_van_Gogh_395.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Edgar_Degas_482.jpg,Edgar_Degas_661.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Rembrandt_236.jpg,Rembrandt_65.jpg,Rembrandt,Rembrandt,10,distinct paintings (false positive)
+Titian_16.jpg,Titian_193.jpg,Titian,Titian,10,genuine near-duplicate
+Vincent_van_Gogh_254.jpg,Vincent_van_Gogh_518.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Rembrandt_40.jpg,Rembrandt_24.jpg,Rembrandt,Rembrandt,10,distinct paintings (false positive)
+Pablo_Picasso_71.jpg,Pablo_Picasso_251.jpg,Pablo_Picasso,Pablo_Picasso,10,genuine near-duplicate
+Pablo_Picasso_248.jpg,Pablo_Picasso_267.jpg,Pablo_Picasso,Pablo_Picasso,10,genuine near-duplicate
+Francisco_Goya_113.jpg,Francisco_Goya_244.jpg,Francisco_Goya,Francisco_Goya,10,distinct paintings (false positive)
+Edgar_Degas_682.jpg,Edgar_Degas_260.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Albrecht_Du╠êrer_49.jpg,Albrecht_Dürer_323.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Albrecht_Du╠êrer_49.jpg,Albrecht_Du╠êrer_323.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Pablo_Picasso_52.jpg,Pablo_Picasso_150.jpg,Pablo_Picasso,Pablo_Picasso,10,genuine near-duplicate
+Albrecht_Dürer_323.jpg,Albrecht_Dürer_49.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Francisco_Goya_253.jpg,Francisco_Goya_180.jpg,Francisco_Goya,Francisco_Goya,10,distinct paintings (false positive)
+Albrecht_Dürer_49.jpg,Albrecht_Du╠êrer_323.jpg,Albrecht_Dürer,Albrecht_Dürer,10,genuine near-duplicate
+Vincent_van_Gogh_286.jpg,Vincent_van_Gogh_190.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Edgar_Degas_529.jpg,Edgar_Degas_14.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Vincent_van_Gogh_450.jpg,Vincent_van_Gogh_117.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Edgar_Degas_643.jpg,Edgar_Degas_446.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Pierre-Auguste_Renoir_78.jpg,Pierre-Auguste_Renoir_53.jpg,Pierre-Auguste_Renoir,Pierre-Auguste_Renoir,10,genuine near-duplicate
+Edgar_Degas_468.jpg,Edgar_Degas_641.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Vincent_van_Gogh_323.jpg,Vincent_van_Gogh_108.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,distinct paintings (false positive)
+Edgar_Degas_203.jpg,Edgar_Degas_680.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Edgar_Degas_20.jpg,Edgar_Degas_99.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Vincent_van_Gogh_66.jpg,Vincent_van_Gogh_174.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Edgar_Degas_12.jpg,Edgar_Degas_256.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Titian_177.jpg,Titian_185.jpg,Titian,Titian,10,genuine near-duplicate
+Pierre-Auguste_Renoir_141.jpg,Pierre-Auguste_Renoir_69.jpg,Pierre-Auguste_Renoir,Pierre-Auguste_Renoir,10,distinct paintings (false positive)
+Edgar_Degas_654.jpg,Edgar_Degas_570.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Vincent_van_Gogh_163.jpg,Vincent_van_Gogh_300.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Pablo_Picasso_73.jpg,Rembrandt_51.jpg,Pablo_Picasso,Rembrandt,10,distinct paintings (false positive)
+Edgar_Degas_663.jpg,Edgar_Degas_132.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Rembrandt_239.jpg,Francisco_Goya_224.jpg,Rembrandt,Francisco_Goya,10,distinct paintings (false positive)
+Vincent_van_Gogh_567.jpg,Vincent_van_Gogh_324.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Edgar_Degas_646.jpg,Edgar_Degas_132.jpg,Edgar_Degas,Edgar_Degas,10,genuine near-duplicate
+Pablo_Picasso_353.jpg,Pablo_Picasso_58.jpg,Pablo_Picasso,Pablo_Picasso,10,genuine near-duplicate
+Vincent_van_Gogh_683.jpg,Vincent_van_Gogh_297.jpg,Vincent_van_Gogh,Vincent_van_Gogh,10,genuine near-duplicate
+Rembrandt_110.jpg,Rembrandt_122.jpg,Rembrandt,Rembrandt,10,distinct paintings (false positive)

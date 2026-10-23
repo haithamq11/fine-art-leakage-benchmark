@@ -1,0 +1,210 @@
+image_a,image_b,hamming_or_probe,transform,verdict
+Albrecht_Dürer_37.jpg,Albrecht_Dürer_147.jpg,12,,residual near-duplicate (same digitised work)
+Alfred_Sisley_106.jpg,Alfred_Sisley_211.jpg,12,,residual near-duplicate (same digitised work)
+Alfred_Sisley_151.jpg,Alfred_Sisley_49.jpg,12,,residual near-duplicate (same digitised work)
+Alfred_Sisley_251.jpg,Alfred_Sisley_26.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_2.jpg,Edgar_Degas_42.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_226.jpg,Edgar_Degas_620.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_24.jpg,Edgar_Degas_616.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_305.jpg,Edgar_Degas_674.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_31.jpg,Edgar_Degas_88.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_433.jpg,Edgar_Degas_676.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_632.jpg,Edgar_Degas_699.jpg,12,,residual near-duplicate (same digitised work)
+Francisco_Goya_104.jpg,Francisco_Goya_120.jpg,12,,residual near-duplicate (same digitised work)
+Pablo_Picasso_30.jpg,Pablo_Picasso_362.jpg,12,,residual near-duplicate (same digitised work)
+Titian_190.jpg,Titian_191.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_29.jpg,Vincent_van_Gogh_791.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_311.jpg,Vincent_van_Gogh_93.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_361.jpg,Vincent_van_Gogh_785.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_399.jpg,Vincent_van_Gogh_480.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_488.jpg,Vincent_van_Gogh_632.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_507.jpg,Vincent_van_Gogh_89.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_520.jpg,Vincent_van_Gogh_815.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_559.jpg,Vincent_van_Gogh_61.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_600.jpg,Vincent_van_Gogh_649.jpg,12,,residual near-duplicate (same digitised work)
+Vincent_van_Gogh_759.jpg,Vincent_van_Gogh_803.jpg,12,,residual near-duplicate (same digitised work)
+Edgar_Degas_1.jpg,Edgar_Degas_695.jpg,>10,hflip,residual near-duplicate found only after hflip
+Edgar_Degas_208.jpg,Edgar_Degas_368.jpg,>10,hflip,residual near-duplicate found only after hflip
+Edgar_Degas_274.jpg,Edgar_Degas_623.jpg,>10,hflip,residual near-duplicate found only after hflip
+Edgar_Degas_558.jpg,Edgar_Degas_593.jpg,>10,hflip,residual near-duplicate found only after hflip
+Edgar_Degas_569.jpg,Edgar_Degas_581.jpg,>10,hflip,residual near-duplicate found only after hflip
+Paul_Gauguin_143.jpg,Paul_Gauguin_144.jpg,>10,hflip,residual near-duplicate found only after hflip
+Paul_Gauguin_161.jpg,Paul_Gauguin_162.jpg,>10,crop80,residual near-duplicate found only after crop80
+Vincent_van_Gogh_346.jpg,Vincent_van_Gogh_338.jpg,>10,crop90,residual near-duplicate found only after crop90
+Vincent_van_Gogh_394.jpg,Vincent_van_Gogh_241.jpg,>10,crop90,residual near-duplicate found only after crop90
+Vincent_van_Gogh_551.jpg,Vincent_van_Gogh_613.jpg,>10,crop90,residual near-duplicate found only after crop90
+Vincent_van_Gogh_648.jpg,Vincent_van_Gogh_80.jpg,>10,crop90,residual near-duplicate found only after crop90
+Vincent_van_Gogh_109.jpg,Vincent_van_Gogh_575.jpg,12,,uncertain: artist repetition or second version
+Vincent_van_Gogh_15.jpg,Vincent_van_Gogh_826.jpg,12,,uncertain: artist repetition or second version
+Vincent_van_Gogh_334.jpg,Vincent_van_Gogh_752.jpg,12,,uncertain: artist repetition or second version
+Vincent_van_Gogh_503.jpg,Vincent_van_Gogh_747.jpg,12,,uncertain: artist repetition or second version
+Vincent_van_Gogh_243.jpg,Vincent_van_Gogh_494.jpg,14,,uncertain: artist repetition or second version
+Titian_203.jpg,Titian_202.jpg,>10,crop90,uncertain: artist repetition or second version
+Vincent_van_Gogh_629.jpg,Vincent_van_Gogh_206.jpg,>10,crop90,uncertain: artist repetition or second version
+Albrecht_Dürer_134.jpg,Albrecht_Du╠êrer_35.jpg,12,,distinct paintings
+Albrecht_Dürer_37.jpg,Albrecht_Du╠êrer_147.jpg,12,,distinct paintings
+Albrecht_Du╠êrer_109.jpg,Paul_Gauguin_158.jpg,12,,distinct paintings
+Albrecht_Du╠êrer_152.jpg,Albrecht_Du╠êrer_8.jpg,12,,distinct paintings
+Albrecht_Du╠êrer_164.jpg,Alfred_Sisley_158.jpg,12,,distinct paintings
+Albrecht_Du╠êrer_172.jpg,Francisco_Goya_132.jpg,12,,distinct paintings
+Albrecht_Du╠êrer_259.jpg,Alfred_Sisley_158.jpg,12,,distinct paintings
+Albrecht_Du╠êrer_307.jpg,Rembrandt_131.jpg,12,,distinct paintings
+Alfred_Sisley_31.jpg,Rembrandt_184.jpg,12,,distinct paintings
+Alfred_Sisley_54.jpg,Francisco_Goya_220.jpg,12,,distinct paintings
+Edgar_Degas_194.jpg,Francisco_Goya_165.jpg,12,,distinct paintings
+Edgar_Degas_239.jpg,Edgar_Degas_457.jpg,12,,distinct paintings
+Edgar_Degas_332.jpg,Rembrandt_142.jpg,12,,distinct paintings
+Edgar_Degas_345.jpg,Rembrandt_235.jpg,12,,distinct paintings
+Edgar_Degas_492.jpg,Pablo_Picasso_93.jpg,12,,distinct paintings
+Edgar_Degas_63.jpg,Vincent_van_Gogh_410.jpg,12,,distinct paintings
+Edgar_Degas_8.jpg,Vincent_van_Gogh_604.jpg,12,,distinct paintings
+Francisco_Goya_127.jpg,Francisco_Goya_151.jpg,12,,distinct paintings
+Francisco_Goya_127.jpg,Francisco_Goya_244.jpg,12,,distinct paintings
+Francisco_Goya_149.jpg,Francisco_Goya_238.jpg,12,,distinct paintings
+Francisco_Goya_15.jpg,Francisco_Goya_176.jpg,12,,distinct paintings
+Francisco_Goya_15.jpg,Francisco_Goya_92.jpg,12,,distinct paintings
+Francisco_Goya_151.jpg,Francisco_Goya_201.jpg,12,,distinct paintings
+Francisco_Goya_153.jpg,Francisco_Goya_223.jpg,12,,distinct paintings
+Francisco_Goya_154.jpg,Francisco_Goya_245.jpg,12,,distinct paintings
+Francisco_Goya_156.jpg,Titian_60.jpg,12,,distinct paintings
+Francisco_Goya_17.jpg,Francisco_Goya_268.jpg,12,,distinct paintings
+Francisco_Goya_176.jpg,Francisco_Goya_92.jpg,12,,distinct paintings
+Francisco_Goya_180.jpg,Francisco_Goya_189.jpg,12,,distinct paintings
+Francisco_Goya_180.jpg,Francisco_Goya_56.jpg,12,,distinct paintings
+Francisco_Goya_185.jpg,Rembrandt_126.jpg,12,,distinct paintings
+Francisco_Goya_187.jpg,Pierre-Auguste_Renoir_163.jpg,12,,distinct paintings
+Francisco_Goya_189.jpg,Francisco_Goya_240.jpg,12,,distinct paintings
+Francisco_Goya_194.jpg,Francisco_Goya_197.jpg,12,,distinct paintings
+Francisco_Goya_195.jpg,Francisco_Goya_88.jpg,12,,distinct paintings
+Francisco_Goya_201.jpg,Francisco_Goya_28.jpg,12,,distinct paintings
+Francisco_Goya_216.jpg,Rembrandt_42.jpg,12,,distinct paintings
+Francisco_Goya_224.jpg,Rembrandt_26.jpg,12,,distinct paintings
+Francisco_Goya_225.jpg,Titian_94.jpg,12,,distinct paintings
+Francisco_Goya_232.jpg,Pablo_Picasso_299.jpg,12,,distinct paintings
+Francisco_Goya_250.jpg,Pablo_Picasso_80.jpg,12,,distinct paintings
+Francisco_Goya_271.jpg,Titian_142.jpg,12,,distinct paintings
+Francisco_Goya_276.jpg,Vincent_van_Gogh_289.jpg,12,,distinct paintings
+Francisco_Goya_40.jpg,Francisco_Goya_92.jpg,12,,distinct paintings
+Francisco_Goya_45.jpg,Pablo_Picasso_331.jpg,12,,distinct paintings
+Francisco_Goya_5.jpg,Vincent_van_Gogh_521.jpg,12,,distinct paintings
+Francisco_Goya_54.jpg,Rembrandt_92.jpg,12,,distinct paintings
+Francisco_Goya_69.jpg,Titian_253.jpg,12,,distinct paintings
+Francisco_Goya_77.jpg,Rembrandt_23.jpg,12,,distinct paintings
+Francisco_Goya_88.jpg,Rembrandt_242.jpg,12,,distinct paintings
+Pablo_Picasso_124.jpg,Paul_Gauguin_117.jpg,12,,distinct paintings
+Pablo_Picasso_181.jpg,Pablo_Picasso_426.jpg,12,,distinct paintings
+Pablo_Picasso_269.jpg,Paul_Gauguin_212.jpg,12,,distinct paintings
+Pablo_Picasso_374.jpg,Vincent_van_Gogh_174.jpg,12,,distinct paintings
+Pablo_Picasso_62.jpg,Rembrandt_126.jpg,12,,distinct paintings
+Paul_Gauguin_94.jpg,Pierre-Auguste_Renoir_32.jpg,12,,distinct paintings
+Pierre-Auguste_Renoir_154.jpg,Vincent_van_Gogh_237.jpg,12,,distinct paintings
+Pierre-Auguste_Renoir_279.jpg,Vincent_van_Gogh_17.jpg,12,,distinct paintings
+Pierre-Auguste_Renoir_283.jpg,Rembrandt_102.jpg,12,,distinct paintings
+Rembrandt_122.jpg,Rembrandt_168.jpg,12,,distinct paintings
+Rembrandt_15.jpg,Rembrandt_186.jpg,12,,distinct paintings
+Rembrandt_153.jpg,Rembrandt_179.jpg,12,,distinct paintings
+Rembrandt_174.jpg,Rembrandt_37.jpg,12,,distinct paintings
+Rembrandt_202.jpg,Rembrandt_73.jpg,12,,distinct paintings
+Rembrandt_23.jpg,Titian_51.jpg,12,,distinct paintings
+Rembrandt_231.jpg,Rembrandt_65.jpg,12,,distinct paintings
+Rembrandt_231.jpg,Titian_51.jpg,12,,distinct paintings
+Rembrandt_232.jpg,Rembrandt_55.jpg,12,,distinct paintings
+Rembrandt_26.jpg,Rembrandt_73.jpg,12,,distinct paintings
+Rembrandt_260.jpg,Titian_51.jpg,12,,distinct paintings
+Rembrandt_261.jpg,Rembrandt_62.jpg,12,,distinct paintings
+Rembrandt_37.jpg,Titian_51.jpg,12,,distinct paintings
+Rembrandt_52.jpg,Rembrandt_62.jpg,12,,distinct paintings
+Rembrandt_55.jpg,Titian_51.jpg,12,,distinct paintings
+Rembrandt_73.jpg,Titian_51.jpg,12,,distinct paintings
+Titian_198.jpg,Titian_199.jpg,12,,distinct paintings
+Titian_215.jpg,Titian_216.jpg,12,,distinct paintings
+Titian_46.jpg,Titian_49.jpg,12,,distinct paintings
+Titian_47.jpg,Titian_56.jpg,12,,distinct paintings
+Vincent_van_Gogh_152.jpg,Vincent_van_Gogh_203.jpg,12,,distinct paintings
+Vincent_van_Gogh_288.jpg,Vincent_van_Gogh_33.jpg,12,,distinct paintings
+Vincent_van_Gogh_288.jpg,Vincent_van_Gogh_534.jpg,12,,distinct paintings
+Vincent_van_Gogh_363.jpg,Vincent_van_Gogh_9.jpg,12,,distinct paintings
+Vincent_van_Gogh_465.jpg,Vincent_van_Gogh_786.jpg,12,,distinct paintings
+Vincent_van_Gogh_534.jpg,Vincent_van_Gogh_81.jpg,14,,distinct paintings
+Francisco_Goya_215.jpg,Pierre-Auguste_Renoir_154.jpg,14,,distinct paintings
+Rembrandt_52.jpg,Rembrandt_57.jpg,14,,distinct paintings
+Francisco_Goya_263.jpg,Titian_46.jpg,14,,distinct paintings
+Albrecht_Dürer_73.jpg,Francisco_Goya_112.jpg,14,,distinct paintings
+Edgar_Degas_66.jpg,Vincent_van_Gogh_235.jpg,14,,distinct paintings
+Pablo_Picasso_250.jpg,Vincent_van_Gogh_15.jpg,14,,distinct paintings
+Pablo_Picasso_164.jpg,Vincent_van_Gogh_179.jpg,14,,distinct paintings
+Francisco_Goya_23.jpg,Francisco_Goya_54.jpg,14,,distinct paintings
+Titian_156.jpg,Titian_171.jpg,14,,distinct paintings
+Francisco_Goya_117.jpg,Vincent_van_Gogh_3.jpg,14,,distinct paintings
+Pablo_Picasso_132.jpg,Titian_209.jpg,14,,distinct paintings
+Francisco_Goya_189.jpg,Paul_Gauguin_46.jpg,14,,distinct paintings
+Paul_Gauguin_90.jpg,Paul_Gauguin_94.jpg,14,,distinct paintings
+Edgar_Degas_352.jpg,Vincent_van_Gogh_87.jpg,14,,distinct paintings
+Pablo_Picasso_240.jpg,Pablo_Picasso_294.jpg,14,,distinct paintings
+Alfred_Sisley_41.jpg,Rembrandt_153.jpg,14,,distinct paintings
+Francisco_Goya_104.jpg,Francisco_Goya_176.jpg,14,,distinct paintings
+Rembrandt_50.jpg,Titian_41.jpg,14,,distinct paintings
+Albrecht_Du╠êrer_84.jpg,Vincent_van_Gogh_869.jpg,14,,distinct paintings
+Pierre-Auguste_Renoir_295.jpg,Vincent_van_Gogh_36.jpg,14,,distinct paintings
+Titian_34.jpg,Vincent_van_Gogh_102.jpg,14,,distinct paintings
+Edgar_Degas_583.jpg,Vincent_van_Gogh_821.jpg,14,,distinct paintings
+Pablo_Picasso_399.jpg,Pierre-Auguste_Renoir_32.jpg,14,,distinct paintings
+Rembrandt_202.jpg,Rembrandt_31.jpg,14,,distinct paintings
+Titian_51.jpg,Vincent_van_Gogh_210.jpg,14,,distinct paintings
+Pierre-Auguste_Renoir_235.jpg,Vincent_van_Gogh_266.jpg,14,,distinct paintings
+Alfred_Sisley_86.jpg,Francisco_Goya_87.jpg,14,,distinct paintings
+Francisco_Goya_124.jpg,Francisco_Goya_70.jpg,14,,distinct paintings
+Alfred_Sisley_10.jpg,Vincent_van_Gogh_780.jpg,14,,distinct paintings
+Rembrandt_26.jpg,Rembrandt_260.jpg,14,,distinct paintings
+Albrecht_Du╠êrer_307.jpg,Rembrandt_93.jpg,14,,distinct paintings
+Vincent_van_Gogh_616.jpg,Vincent_van_Gogh_744.jpg,14,,distinct paintings
+Rembrandt_174.jpg,Titian_95.jpg,14,,distinct paintings
+Francisco_Goya_151.jpg,Paul_Gauguin_46.jpg,14,,distinct paintings
+Francisco_Goya_86.jpg,Pablo_Picasso_13.jpg,14,,distinct paintings
+Pablo_Picasso_90.jpg,Vincent_van_Gogh_821.jpg,14,,distinct paintings
+Alfred_Sisley_111.jpg,Paul_Gauguin_209.jpg,14,,distinct paintings
+Francisco_Goya_185.jpg,Francisco_Goya_265.jpg,14,,distinct paintings
+Albrecht_Dürer_177.jpg,Pablo_Picasso_288.jpg,crop90,crop90,distinct paintings
+Albrecht_Du╠êrer_45.jpg,Francisco_Goya_257.jpg,hflip,hflip,distinct paintings
+Alfred_Sisley_254.jpg,Vincent_van_Gogh_460.jpg,hflip,hflip,distinct paintings
+Edgar_Degas_285.jpg,Alfred_Sisley_84.jpg,crop90,crop90,distinct paintings
+Edgar_Degas_339.jpg,Titian_46.jpg,crop90,crop90,distinct paintings
+Edgar_Degas_339.jpg,Titian_66.jpg,crop90,crop90,distinct paintings
+Edgar_Degas_684.jpg,Francisco_Goya_92.jpg,hflip,hflip,distinct paintings
+Francisco_Goya_135.jpg,Francisco_Goya_225.jpg,crop80,crop80,distinct paintings
+Francisco_Goya_15.jpg,Francisco_Goya_154.jpg,hflip,hflip,distinct paintings
+Francisco_Goya_224.jpg,Rembrandt_260.jpg,crop90,crop90,distinct paintings
+Francisco_Goya_77.jpg,Titian_50.jpg,crop90,crop90,distinct paintings
+Francisco_Goya_88.jpg,Rembrandt_62.jpg,hflip,hflip,distinct paintings
+Pablo_Picasso_2.jpg,Vincent_van_Gogh_162.jpg,crop90,crop90,distinct paintings
+Pablo_Picasso_305.jpg,Vincent_van_Gogh_17.jpg,crop90,crop90,distinct paintings
+Paul_Gauguin_241.jpg,Francisco_Goya_90.jpg,hflip,hflip,distinct paintings
+Pierre-Auguste_Renoir_270.jpg,Francisco_Goya_279.jpg,hflip,hflip,distinct paintings
+Pierre-Auguste_Renoir_283.jpg,Edgar_Degas_211.jpg,crop80,crop80,distinct paintings
+Rembrandt_115.jpg,Rembrandt_126.jpg,hflip,hflip,distinct paintings
+Rembrandt_126.jpg,Pierre-Auguste_Renoir_69.jpg,hflip,hflip,distinct paintings
+Rembrandt_136.jpg,Rembrandt_228.jpg,crop80,crop80,distinct paintings
+Rembrandt_174.jpg,Rembrandt_232.jpg,crop90,crop90,distinct paintings
+Rembrandt_202.jpg,Rembrandt_231.jpg,crop80,crop80,distinct paintings
+Rembrandt_23.jpg,Francisco_Goya_88.jpg,crop90,crop90,distinct paintings
+Rembrandt_23.jpg,Rembrandt_24.jpg,hflip,hflip,distinct paintings
+Rembrandt_231.jpg,Rembrandt_24.jpg,hflip,hflip,distinct paintings
+Rembrandt_232.jpg,Titian_46.jpg,crop80,crop80,distinct paintings
+Rembrandt_233.jpg,Rembrandt_76.jpg,hflip,hflip,distinct paintings
+Rembrandt_24.jpg,Titian_51.jpg,hflip,hflip,distinct paintings
+Rembrandt_25.jpg,Pierre-Auguste_Renoir_223.jpg,crop80,crop80,distinct paintings
+Rembrandt_26.jpg,Titian_51.jpg,crop90,crop90,distinct paintings
+Rembrandt_31.jpg,Rembrandt_173.jpg,crop80,crop80,distinct paintings
+Rembrandt_34.jpg,Francisco_Goya_25.jpg,hflip,hflip,distinct paintings
+Rembrandt_46.jpg,Rembrandt_26.jpg,crop80,crop80,distinct paintings
+Rembrandt_65.jpg,Francisco_Goya_77.jpg,crop90,crop90,distinct paintings
+Rembrandt_65.jpg,Francisco_Goya_88.jpg,crop90,crop90,distinct paintings
+Rembrandt_72.jpg,Titian_46.jpg,crop90,crop90,distinct paintings
+Titian_100.jpg,Titian_31.jpg,hflip,hflip,distinct paintings
+Titian_253.jpg,Vincent_van_Gogh_421.jpg,hflip,hflip,distinct paintings
+Titian_31.jpg,Titian_46.jpg,crop90,crop90,distinct paintings
+Titian_72.jpg,Titian_46.jpg,crop80,crop80,distinct paintings
+Vincent_van_Gogh_102.jpg,Edgar_Degas_187.jpg,crop80,crop80,distinct paintings
+Vincent_van_Gogh_210.jpg,Rembrandt_37.jpg,crop90,crop90,distinct paintings
+Vincent_van_Gogh_489.jpg,Francisco_Goya_4.jpg,crop80,crop80,distinct paintings
+Vincent_van_Gogh_80.jpg,Paul_Gauguin_301.jpg,hflip,hflip,distinct paintings

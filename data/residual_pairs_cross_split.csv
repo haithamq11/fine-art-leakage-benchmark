@@ -1,0 +1,6 @@
+seed,train_test,train_val,train_train,test_test,val_test,val_val,train_test_incl_uncertain
+42,6,7,20,0,1,0,8
+0,4,7,23,0,0,0,5
+1,7,11,13,1,2,0,8
+7,2,12,15,2,2,1,3
+123,4,5,21,1,2,1,8

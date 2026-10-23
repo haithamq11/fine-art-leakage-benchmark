@@ -1,0 +1,25 @@
+LEAKAGE ISOLATION - FINAL (Kaggle notebook run-07-leakage, Version 5)
+Script: 07_leakage_isolation.py (corrected protocol)
+Backbone: Xception; 5-fold OOF per seed; 70/15/15 stratified split per seed
+Seeds: 42, 0, 1, 7, 123
+Dataset: best-artworks-of-all-time, 4388 images, 10 classes (near-duplicates RETAINED)
+Comparison baseline: deduplicated Xception runs (.npz from 01_train_main.py) - no Table 5 fallback used
+
+seed  acc_nodup  f1_nodup  acc_dedup  source  leakage_effect_pp
+  42    90.14      88.00     86.47      npz        +3.67
+   0    88.47      87.48     86.99      npz        +1.47
+   1    88.77      87.34     88.22      npz        +0.55
+   7    89.07      88.30     84.18      npz        +4.89
+ 123    88.77      87.61     86.99      npz        +1.78
+
+Xception WITH duplicates    : 89.04% +/- 0.65%
+Xception WITHOUT duplicates : 86.57% +/- 1.48%
+Isolated leakage effect     : 2.47 pp (paired 95% CI [0.28, 4.66] pp, n = 5 seeds)
+
+The CI excludes zero, so retaining pHash near-duplicates inflates test accuracy
+by a statistically significant margin at the 5% level under this protocol.
+Everything except duplicate retention is held constant, so the difference
+isolates the effect of near-duplicate leakage.
+
+Run history: V2 (seeds 42, 0; stopped by out-of-memory), V4 (seeds 1, 7),
+V5 (seed 123 + final aggregation). Runtimes: 8.3 h, 6.2 h, 3.0 h on GPU T4 x2.
